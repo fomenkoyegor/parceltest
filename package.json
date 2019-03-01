@@ -1,0 +1,23 @@
+{
+  "name": "parcel1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel dev  index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.4.9",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "parcel": "^1.11.0",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "postcss-modules": "^1.4.1",
+    "sass": "^1.17.2"
+  }
+}
